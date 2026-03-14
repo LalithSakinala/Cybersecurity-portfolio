@@ -1,4 +1,4 @@
-# Lalith Sakinala - Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
 MS Cybersecurity (AI) Student at Webster University.
 
